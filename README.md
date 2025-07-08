@@ -21,6 +21,7 @@ python cli.py fuzz --port /dev/ttyUSB0
 - [ ] Build SPI/I2C bus fuzzers
 - [ ] Launch GitHub project + create demo videos
 - [ ] Submit write-up to DEF CON / Hack-a-Sat / arXiv
+- [ ] AX.25 Command Injection (basic, raw frame)
 
 ## Legal
 For educational and ethical use only. Do not use without permission.
