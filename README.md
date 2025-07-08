@@ -10,8 +10,10 @@ A modular open-source CubeSat cybersecurity testing suite for ethical hackers, a
 - CLI-based modular design
 - Designed for educational, academic, and DEF CON-style use cases
 
+
 ## 📦 Installation
 ```bash
 git clone https://github.com/mehmetalpan/CubeSec.git
 cd CubeSec
 pip install -r requirements.txt
+
